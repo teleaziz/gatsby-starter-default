@@ -1,8 +1,7 @@
-# Project dependencies
-.cache
-node_modules
-yarn-error.log
-
-# Build directory
-/public
-.DS_Store
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
